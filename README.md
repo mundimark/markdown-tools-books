@@ -1,5 +1,5 @@
 
-Book Builder / Maker / Generator / Compiler
+Book Builder / Maker / Generator / Compiler - Write, Build, and Publish Books in Markdown
 
 # Markdown Book Tools - Add Your Markdown Book Tool!
 
