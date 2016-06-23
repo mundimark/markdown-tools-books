@@ -1,5 +1,7 @@
 
-# Markdown Book Builder / Maker / Generator / Compiler Tools - Add Your Markdown Book Tool!
+Book Builder / Maker / Generator / Compiler
+
+# Markdown Book Tools - Add Your Markdown Book Tool!
 
 Markdown Book Tools Directory - see it live @ [`manuscripts.github.io/markdown-tools-books`](http://manuscripts.github.io/markdown-tools-books)
 
