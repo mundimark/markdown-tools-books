@@ -1,0 +1,115 @@
+
+- title:     Git Book
+  desc:      Modern book format and tool using Git and Markdown
+  author:    Samy Pessé et al
+  formats:   [html (+epub, +pdf)]
+  templates: Nunjucks
+  github:    GitbookIO/gitbook
+  web:       https://www.gitbook.com
+  package:   https://www.npmjs.com/package/gitbook
+  language:  JavaScript
+  stats:    
+    stars:  12342
+
+
+- title:     Pandoc
+  desc:      Universal markup converter
+  author:    John MacFarlane et al
+  formats:   [html (+epub), latex (pdf)]
+  templates: Custom (Pandoc)
+  github:    jgm/pandoc
+  web:       http://pandoc.org
+  package:   https://hackage.haskell.org/package/pandoc
+  language:  Haskell
+  stats:    
+    stars:  6514
+
+
+- title:     Mk Docs
+  desc:      Project documentation with Markdown
+  author:    Tom Christie, Dougal Matthews, Waylan Limberg et al
+  formats:   [html]
+  templates: Jinja
+  github:    mkdocs/mkdocs
+  web:       http://www.mkdocs.org
+  package:   https://pypi.python.org/pypi/mkdocs
+  language:  Python
+  stats:    
+    stars:  2675
+
+
+- title:     Easy Book
+  desc:      Book publishing as easy as it should be 
+  author:    Javier Eguiluz et al
+  formats:   [html (+epub, +pdf)]
+  templates: Twig
+  github:    javiereguiluz/easybook
+  web:       http://easybook-project.org
+  package:   https://packagist.org/packages/easybook/easybook
+  language:  PHP
+  stats:    
+    stars:  610
+
+
+- title:     Md Book
+  desc:      Create books from markdown files
+  author:    Mathieu David et al
+  formats:   [html]
+  templates: Handlebars
+  github:    azerupi/mdBook
+  web:       http://azerupi.github.io/mdBook
+  package:   https://crates.io/crates/mdbook
+  language:  Rust
+  stats:    
+    stars:  201
+
+
+- title:     Softcover
+  desc:      Tool for book generation, building, and publishing
+  author:    Michael Hartl et al
+  formats:   [html (+epub), latex (pdf)]
+  templates: ??
+  github:    softcover/softcover
+  web:       https://www.softcover.io
+  package:   https://rubygems.org/gems/softcover
+  language:  Ruby
+  stats:    
+    stars:  196
+
+
+- title:     Bookdown (+Pandoc)
+  desc:      Authoring books with R Markdown
+  author:    Yihui Xie et al
+  formats:   [html (+epub), latex (pdf)]
+  templates: Custom (Pandoc)
+  github:    rstudio/bookdown
+  web:       https://bookdown.org
+  language:  R
+  stats:    
+    stars:  175
+
+## check if cran package availabe? why not? double check
+
+
+- title:     Franklin (+Middleman)
+  desc:      Static site builder for online books
+  author:    Bryan Braun et al
+  formats:   [html]
+  templates: Embedded Ruby (ERB)
+  github:    bryanbraun/franklin
+  language:  Ruby
+  stats:    
+    stars:  100
+
+
+- title:     Octobook (+Jekyll)
+  desc:      Book publishing tools 'n' themes for Jekyll
+  author:    Gerald Bauer et al
+  formats:   [html]
+  templates: Liquid
+  github:    octobook/octobook
+  package:   https://rubygems.org/gems/octobook
+  language:  Ruby
+  stats:    
+    stars:  2
+
