@@ -1,9 +1,9 @@
 
 Open Source Book Builder / Maker / Generator / Compiler from Markdown Manuscripts (in Plain Text) 
 
-# Markdown Book Tools - Add Your Tool!
+# Markdown Tools › Books - Add Your Tool!
 
-Markdown Book Tools Directory - see it live @ [`manuscripts.github.io/markdown-tools-books`](http://manuscripts.github.io/markdown-tools-books)
+Markdown Tools › Books Directory - see it live @ [`manuscripts.github.io/markdown-tools-books`](http://manuscripts.github.io/markdown-tools-books)
 
 
 ## How-To Add Your Tools
@@ -14,13 +14,11 @@ Markdown Book Tools Directory - see it live @ [`manuscripts.github.io/markdown-t
 
 ``` yaml
 - title:     Pandoc
-  desc:      Universal markup converter
   author:    John MacFarlane et al
   formats:   [html (+epub), latex (pdf)]
   templates: Custom (Pandoc)
   github:    jgm/pandoc
   web:       http://pandoc.org
-  package:   https://hackage.haskell.org/package/pandoc
   language:  Haskell
 ```  
 
@@ -28,12 +26,10 @@ or
 
 ``` yaml
 - title:     Octobook (+Jekyll)
-  desc:      Book publishing tools 'n' themes for Jekyll
   author:    Gerald Bauer et al
   formats:   [html]
   templates: Liquid
   github:    octobook/octobook
-  package:   https://rubygems.org/gems/octobook
   language:  Ruby
 ```
 
