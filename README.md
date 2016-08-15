@@ -3,13 +3,13 @@ Open Source Book Builder / Maker / Generator / Compiler from Markdown Manuscript
 
 # Markdown Tools › Books - Add Your Tool!
 
-Markdown Tools › Books Directory - see it live @ [`manuscripts.github.io/markdown-tools-books`](http://manuscripts.github.io/markdown-tools-books)
+Markdown Tools › Books Directory - see it live @ [`mundimark.github.io/markdown-tools-books`](http://mundimark.github.io/markdown-tools-books)
 
 
 ## How-To Add Your Tools
 
-* Fork the [`/markdown-tools-books`](https://github.com/manuscripts/markdown-tools-books) repo on GitHub
-* Add a new entry in the [`tools.yml`](https://github.com/manuscripts/markdown-tools-books/blob/master/tools.yml) file and fill out all fields.
+* Fork the [`/markdown-tools-books`](https://github.com/mundimark/markdown-tools-books) repo on GitHub
+* Add a new entry in the [`tools.yml`](https://github.com/mundimark/markdown-tools-books/blob/master/tools.yml) file and fill out all fields.
   Example:
 
 ``` yaml
