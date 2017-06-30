@@ -113,3 +113,13 @@
   stats:    
     stars:  2
 
+- title:     Crowbook
+  desc:      Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
+  author:    Élisabeth Henry
+  formats:   [html (+epub), latex(pdf)]
+  templates: Handlebars
+  github:    lise-henry/crowbook
+  package:   https://crates.io/crates/crowbook
+  language:  Rust
+  stats:    
+    stars:  110
